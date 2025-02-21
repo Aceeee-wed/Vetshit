@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAppoinment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminSched.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book_appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create acc dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frontpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupAdServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
